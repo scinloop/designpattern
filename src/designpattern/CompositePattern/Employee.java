@@ -1,4 +1,4 @@
-package CompositePattern;
+package designpattern.CompositePattern;
 
 /**
  * @Author scinloop
